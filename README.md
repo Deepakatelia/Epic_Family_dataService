@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/atelia/soundheart/services/data-services/epic-data-service/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/Deepakatelia/Epic_Family_dataService)
 
 ## Collaborate with your team
 
